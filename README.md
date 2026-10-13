@@ -7,7 +7,7 @@ Desarrollador full stack en Madrid. Construyo aplicaciones web y herramientas de
 
 - **Frontend:** Vue, TypeScript, JavaScript, HTML y CSS
 - **Backend y ERP:** Python, Odoo
-- **Automatización:** n8n
+- **Automatización:** n8n, Make, Zapier
 - **Videojuegos (en ratos libres):** Unity, C# y Blender
 
 ## Proyectos destacados
